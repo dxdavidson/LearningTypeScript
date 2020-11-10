@@ -1,7 +1,7 @@
 {
   "name": "ch01_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "DD",
   "main": "index.js",
   "start": "node server.js",
   "scripts": {
